@@ -50,6 +50,6 @@ if(typeof(dojo) != "undefined") {
 		  ".lotusStreamTopLoading div.loaderMain.lotusHidden");
       } catch(e) {
           alert("Exception occurred in helloWorld: " + e);
-      }
+      } 
    });
 }
